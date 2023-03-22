@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Msc in Industrial Engineering and Bsc in Automation and Control Engineering, Lisboa, Portugal.
+- 🎓 &nbsp; MSc in Industrial Engineering and BSc in Automation and Control Engineering, Lisboa, Portugal.
 - 🌱 &nbsp; Currently Learning Data Analysis.
 - Open for projects collaborations and job opportunities. 
 
