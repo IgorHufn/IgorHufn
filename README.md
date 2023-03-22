@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Currently learning Data Analysis.
 - 📊 &nbsp; Open for projects collaborations and job opportunities. 
 
-<img align="right" width="500" height="250" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" width="480" height="250" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br />
 <br />
