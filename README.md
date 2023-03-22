@@ -1,5 +1,5 @@
 ### Hi there, I'm Igor!
-### I'm an Engineer, Data Analyst and Tech Enthusiastic. 
+### I'm an Engineer, Data Analyst and Tech Enthusiast. 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
