@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Igor!
+### I'm an Engineer, Data Analyst and Tech Enthusiastic. 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -9,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;Python | C++ | SQL | R (Statistics)
+- 💻 &nbsp;Python | C++ | Statistics
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp;Git
 
@@ -19,5 +20,5 @@
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/igorhufnagel/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:igorhufn@gmail.com) 💌
+ - Write me an [Email](mailto:igorhufn@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/IgorHufn)
