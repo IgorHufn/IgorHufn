@@ -8,6 +8,11 @@
 - 🌱 &nbsp; Currently learning Data Analysis.
 - 📊 &nbsp; Open for projects collaborations and job opportunities. 
 
+<img align="right" width="500" height="250" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+<br />
+<br />
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;Python | C++ | Statistics
@@ -15,10 +20,16 @@
 - 🔧 &nbsp;Git
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=IgorHufn&show_icons=true)
+<br />
+<br />
 
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/igorhufnagel/) 👨🏻‍💻
  - Write me an [Email](mailto:igorhufn@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/IgorHufn)
+
+<br />
+<br />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=IgorHufn&show_icons=true)
