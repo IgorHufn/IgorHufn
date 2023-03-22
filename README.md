@@ -16,7 +16,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;Python | C++ | Statistics
-- 🛢 &nbsp; MySQL
+- 🛢 &nbsp;MySQL
 - 🔧 &nbsp;Git
 
 
