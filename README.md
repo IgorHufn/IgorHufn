@@ -11,7 +11,7 @@
 
 - 💻 &nbsp;Python | C++ | SQL | R (Statistics)
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Git
+- 🔧 &nbsp;Git
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=IgorHufn&show_icons=true)
