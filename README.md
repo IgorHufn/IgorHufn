@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | SQL | R (Statistics)
+- 💻 &nbsp;Python | C++ | SQL | R (Statistics)
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git
 
