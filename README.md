@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, developing codes for qualitative data, machine learning and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing code for qualitative data, machine learning and quick hacks.
 - 🎓 &nbsp; MSc in Industrial Engineering and BSc in Automation and Control Engineering, Lisbon, Portugal.
 - 🌱 &nbsp; Currently learning Data Analysis.
 - 📊 &nbsp; Open for projects collaborations and job opportunities. 
