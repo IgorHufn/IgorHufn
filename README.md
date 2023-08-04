@@ -28,8 +28,3 @@
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/igorhufnagel/) 👨🏻‍💻
  - Write me an [Email](mailto:igorhufn@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/IgorHufn)
-
-<br />
-<br />
-
-![github stats](https://github-readme-stats.vercel.app/api?username=IgorHufn&show_icons=true)
